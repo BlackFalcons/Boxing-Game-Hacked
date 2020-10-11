@@ -8473,41 +8473,41 @@ movie 'boxing_gd.swf' // flash 9, total frames: 21, frame rate: 12 fps, 600x380 
   defineMovieClip 385 // total frames: 60
 
     frame 0
-      push 'boxerdata0', 'Holyfield_0_0_0_0_0_0_0_0_0_7_8_8_0_7_2_4_3_'
+      push 'boxerdata0', 'Holyfield_8_9_6_8_6_8_3_7_8_7_8_8_0_7_2_4_3_'
       setVariable
-      push 'boxerdata1', 'Jones_0_0_0_0_0_0_0_0_0_9_7_7_0_8_2_2_2_'
+      push 'boxerdata1', 'Jones_9_9_9_7_8_7_3_8_8_9_7_7_0_8_2_2_2_'
       setVariable
-      push 'boxerdata2', 'Tyson_0_0_0_0_0_0_0_0_0_9_9_9_0_9_2_2_1_'
+      push 'boxerdata2', 'Tyson_9_7_7_2_6_7_3_7_9_9_9_9_0_9_2_2_1_'
       setVariable
-      push 'boxerdata3', 'Ali_0_0_0_0_0_0_0_0_0_8_7_6_0_4_2_0_0_'
+      push 'boxerdata3', 'Ali_9_9_8_9_7_9_3_7_6_8_7_6_0_4_2_0_0_'
       setVariable
-      push 'boxerdata4', 'Chavez_0_0_0_0_0_0_0_0_0_8_8_7_0_0_0_0_4_'
+      push 'boxerdata4', 'Chavez_9_8_7_6_9_9_4_8_9_8_8_7_0_0_0_0_4_'
       setVariable
-      push 'boxerdata5', 'Robinson_0_0_0_0_0_0_0_0_0_7_7_9_0_7_2_1_1_'
+      push 'boxerdata5', 'Robinson_9_9_9_8_9_9_3_8_8_7_7_9_0_7_2_1_1_'
       setVariable
-      push 'boxerdata6', 'Foreman_0_0_0_0_0_0_0_0_0_8_7_9_0_6_2_4_3_'
+      push 'boxerdata6', 'Foreman_8_7_6_3_6_9_3_6_9_8_7_9_0_6_2_4_3_'
       setVariable
-      push 'boxerdata7', 'Duran_0_0_0_0_0_0_0_0_0_0_0_9_4_5_1_1_0_'
+      push 'boxerdata7', 'Duran_9_7_8_6_7_6_4_7_9_9_9_9_4_5_1_1_0_'
       setVariable
-      push 'boxerdata8', 'Leonard_0_0_0_0_0_0_0_0_0_8_6_6_0_2_2_3_2_'
+      push 'boxerdata8', 'Leonard_9_9_9_7_8_7_3_7_7_8_6_6_0_2_2_3_2_'
       setVariable
-      push 'boxerdata9', 'Hearns_0_0_9_9_6_6_3_6_9_7_5_4_0_8_2_3_1_'
+      push 'boxerdata9', 'Hearns_9_8_9_9_6_6_3_6_9_7_5_4_0_8_2_3_1_'
       setVariable
-      push 'boxerdata10', 'Lopez_0_0_7_8_8_7_4_8_7_8_7_5_0_4_1_1_0_'
+      push 'boxerdata10', 'Lopez_8_9_7_8_8_7_4_8_7_8_7_5_0_4_1_1_0_'
       setVariable
-      push 'boxerdata11', 'Yuri_0_0_7_6_6_6_0_7_8_5_6_7_0_8_0_0_1_'
+      push 'boxerdata11', 'Yuri_9_9_7_6_6_6_0_7_8_5_6_7_0_8_0_0_1_'
       setVariable
-      push 'boxerdata12', 'Holmes_0_0_0_0_0_0_0_0_7_7_4_3_3_7_2_2_3_'
+      push 'boxerdata12', 'Holmes_8_8_5_6_6_6_6_7_7_7_4_3_3_7_2_2_3_'
       setVariable
-      push 'boxerdata13', 'Hagler_0_0_0_0_0_0_0_0_0_5_7_6_0_2_2_4_1_'
+      push 'boxerdata13', 'Hagler_8_8_8_7_8_7_3_6_8_6_7_6_0_2_2_4_1_'
       setVariable
-      push 'boxerdata14', 'Pep_0_0_3_1_5_7_0_7_7_5_8_1_0_5_0_1_0_'
+      push 'boxerdata14', 'Pep_9_9_3_1_5_7_0_7_7_5_8_1_0_5_0_1_0_'
       setVariable
-      push 'boxerdata15', 'Marciano_0_0_9_5_4_3_3_6_7_7_8_8_0_0_0_1_0_'
+      push 'boxerdata15', 'Marciano_9_5_9_5_4_3_3_6_7_7_8_8_0_0_0_1_0_'
       setVariable
-      push 'boxerdata16', 'Louis_0_0_8_7_7_8_3_5_7_7_7_9_0_2_2_1_1_'
+      push 'boxerdata16', 'Louis_7_9_8_7_7_8_3_5_7_7_7_9_0_2_2_1_1_'
       setVariable
-      push 'boxerdata17', 'Khaosai_0_0_5_4_6_9_2_7_8_7_4_6_0_3_1_1_2_'
+      push 'boxerdata17', 'Khaosai_7_9_5_4_6_9_2_7_8_7_4_6_0_3_1_1_2_'
       setVariable
       push 'boxerdata18', 'Olivares_9_9_5_7_8_5_3_7_3_9_9_5_0_2_1_3_1_'
       setVariable
@@ -8671,7 +8671,7 @@ movie 'boxing_gd.swf' // flash 9, total frames: 21, frame rate: 12 fps, 600x380 
       setVariable
       push 'boxerdata98', 'Hiranaka_5_0_6_1_2_3_0_4_3_4_6_4_0_9_1_0_1_'
       setVariable
-      push 'boxerdata99', 'Eivind_9_9_9_9_9_9_9_9_9_1_1_3_0_0_1_4_3_'
+      push 'boxerdata99', 'YOU_3_7_2_6_0_7_1_7_0_1_1_3_0_0_1_4_3_'
       setVariable
     end // of frame 0
 
