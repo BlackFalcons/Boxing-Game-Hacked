@@ -5,3 +5,6 @@ I spent a few hours here and there trying to hack this game with cheat engine bu
 2. Edit the `boxing_gd.asm` values you would like to change, this require that you understand assembly or know how to navigate to desired values.
 3. Run `flasm -a boxing_gd.asm` to compile the game from the `boxing_gd.asm` file.
 4. Open `flashplayer_32_sa_debug.exe` or download the original file from [adobe's website.](https://www.adobe.com/support/flashplayer/debug_downloads.html)
+
+### What does the hacked version include?
+1. All stats are set to base 70.
