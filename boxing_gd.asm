@@ -7462,7 +7462,7 @@ movie 'boxing_gd.swf' // flash 9, total frames: 21, frame rate: 12 fps, 600x380 
     end // of frame 1
 
     frame 12
-      constants 'next_match', 'retire', '_parent', 'can_retire', 'RETIRE', 'CONTINUE', 'mcSelecter', 'init', '', 'mes0', 'You can\'t hit the same punch repeatedly. Assemble the combination with different punches.', 'mes1', 'Hooks and uppers can be lucky punches.', 'mes2', 'Body blows the opponent\'s stamina. It will come into effect later.', 'mes3', 'If you catch up with the rope, it will be easier to hit the punch.', 'mes4', 'If you hit the punches in a row, the damage will increase.', 'mes5', 'Punches are easy to hit when you are tired and breathing on your shoulders.', 'mes6', 'The jab and body are easy to hit, but you can\'t take down.', 'lang', 'You won\'t land hits by using the same punches. You need to mix them up in combinations.', 'Hooks and uppercuts sometimes land lucky hits.', 'Body blows sap your opponent\'s stamina, making it easier to knock them out.', 'When your opponent is up on the ropes, it\'s easier to land punches.', 'Consecutive hits cause more damage.', 'When your opponent is tired, it\'s easier to land punches.', 'It\'s easy to land jabs and body blows, but they won\'t knock your opponent down.', 'mes', 'this', 'Math', 'random', 'floor'  
+      constants 'next_match', 'retire', '_parent', 'can_retire', 'RETIRE', 'CONTINUE', 'mcSelecter', 'init', '', 'mes0', 'You can\'t hit with the same punch repeatedly. Assemble the combination with different punches.', 'mes1', 'Hooks and uppercuts can be lucky punches.', 'mes2', 'Body blows will drain the opponent\'s stamina. It will come into effect later in the fight.', 'mes3', 'If you catch up with the rope, it will be easier to hit with the punches.', 'mes4', 'If you hit the punches repeatedly the damage will increase.', 'mes5', 'Punches are easier to hit when your opponent is tired and breathing on your shoulders.', 'mes6', 'The jab and body punch is easy to hit, but they can\'t take down the opponent.', 'lang', 'You won\'t land hits by using the same punches. You need to mix them up in combinations.', 'Hooks and uppercuts sometimes land lucky hits.', 'Body blows sap your opponent\'s stamina, making it easier to knock them out.', 'When your opponent is up on the ropes, it\'s easier to land punches.', 'Consecutive hits cause more damage.', 'When your opponent is tired, it\'s easier to land punches.', 'It\'s easy to land jabs and body blows, but they won\'t knock your opponent down.', 'mes', 'this', 'Math', 'random', 'floor'
       function2 after_select (r:2='curs') (r:1='_parent')
         push r:curs, 0.0
         equals
@@ -7499,19 +7499,19 @@ movie 'boxing_gd.swf' // flash 9, total frames: 21, frame rate: 12 fps, 600x380 
       callMethod
       pop
      label4:
-      push 'mes0', 'You can\'t hit the same punch repeatedly. Assemble the combination with different punches.'
+      push 'mes0', 'You can\'t hit with the same punch repeatedly. Assemble the combination with different punches.'
       setVariable
-      push 'mes1', 'Hooks and uppers can be lucky punches.'
+      push 'mes1', 'Hooks and uppercuts can be lucky punches.'
       setVariable
-      push 'mes2', 'Body blows the opponent\'s stamina. It will come into effect later.'
+      push 'mes2', 'Body blows will drain the opponent\'s stamina. It will come into effect later in the fight.'
       setVariable
-      push 'mes3', 'If you catch up with the rope, it will be easier to hit the punch.'
+      push 'mes3', 'If you catch up with the rope, it will be easier to hit with the punches.'
       setVariable
-      push 'mes4', 'If you hit the punches in a row, the damage will increase.'
+      push 'mes4', 'If you hit the punches repeatedly the damage will increase.'
       setVariable
-      push 'mes5', 'Punches are easy to hit when you are tired and breathing on your shoulders.'
+      push 'mes5', 'Punches are easier to hit when your opponent is tired and breathing on your shoulders.'
       setVariable
-      push 'mes6', 'The jab and body are easy to hit, but you can\'t take down.'
+      push 'mes6', 'The jab and body punch is easy to hit, but they can\'t take down the opponent.'
       setVariable
       push '_parent'
       getVariable
