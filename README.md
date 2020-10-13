@@ -12,4 +12,4 @@ I spent a few hours here and there trying to hack this game with cheat engine bu
 
 ### What does the hacked version include?
 1. All stats are set to base 80.
-2. Translated all Japanese to English (Google translated all Japanse to English so it's not flawless).
+2. Translated all Japanese to English.
